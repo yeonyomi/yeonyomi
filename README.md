@@ -1,4 +1,4 @@
-- 👋 하잉, I’m @yeonyomi 
+- 👋 하잉, I’m @yeonyomi
 - 👀 부족한 わたし かわいい!!!!!!!!!!!!!!!!!!! 
 - 🌱 어쩔 수 없어 해야지
 - 💞️ 린생 모른다
@@ -7,7 +7,7 @@
 yeonyomi/yeonyomi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![header](https://capsule-render.vercel.app/api?type=Egg&color=000008&height=150&section=header&text=yeonyomi등장&fontColo=11111&fontSize=50&animation=fadeIn&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=Egg&color=4B4A67&height=150&section=header&text=yeonyomi&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=40)
 
 //Java
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
