@@ -22,6 +22,10 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">
 //github
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+//html
+<img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html&logoColor=white">
+//css
+<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css&logoColor=white">
 - 👋 하잉, I’m @yeonyomi
 - 👀 부족한 わたし かわいい!!!!!!!!!!!!!!!!!!! 
 - 🌱 어쩔 수 없어 해야지
