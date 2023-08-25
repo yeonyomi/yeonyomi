@@ -27,7 +27,4 @@ You can click the Preview link to take a look at your changes.
 //css
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css&logoColor=white">
 - 👋 하잉, I’m @yeonyomi
-- 👀 부족한 わたし かわいい!!!!!!!!!!!!!!!!!!! 
-- 🌱 어쩔 수 없어 해야지
-- 💞️ 린생 모른다
-- 📫 어디까지 채워지나 기대중
+- 👀 발전중わたし かわいい!!!!!!!!!!!!!!!!!!! 
